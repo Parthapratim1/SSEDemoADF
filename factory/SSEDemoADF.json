@@ -1,0 +1,17 @@
+{
+	"name": "SSEDemoADF",
+	"properties": {
+		"globalParameters": {
+			"testglobalparameter": {
+				"type": "string",
+				"value": "Partha is a good boy"
+			}
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89d9e06a-da5c-4788-9e23-ef60c47a30b5",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
